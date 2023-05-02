@@ -16,3 +16,7 @@ This cheat sheet contains lessons for learning SQL, attached file and roadmap.
 
 # 🗺️ ROADMAP
 ![SQL Roadmap](./imgs/sql-roadmap.png)
+
+# ✔️ Bonus
+If you don't have or not install Microsoft SQL Server, you can use this instead: </br>
+👉 Link: https://sqliteonline.com
